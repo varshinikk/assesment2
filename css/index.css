@@ -1,0 +1,172 @@
+#box
+{
+	height: 610px;
+	width:1275px;
+	background-image: url("../img/pic1.jpeg");
+	background-size: cover;
+	color: white;
+}
+.first
+{
+	font-size: 35px;
+	margin-left: 77px;
+}
+hr
+{
+	margin-top: 22px;
+	color: white;
+}
+.h1
+{
+	margin-left: 377px;
+}
+.h2
+{
+	margin-left:35px;
+}
+.h3
+{
+	margin-left:35px;
+}
+.h4
+{
+	margin-left:35px;
+}
+.h5
+{
+	margin-left:35px;
+}
+.h6
+{
+	margin-left:35px;
+}
+.h7
+{
+	margin-left:35px;
+}
+.head1
+{
+	margin-left: 490px;
+    margin-top: 170px;
+}
+.head2
+{
+	margin-left: 481px;
+}
+.pa1
+{
+	margin-left: 393px;
+}
+.pa2
+{
+	margin-left: 439px;
+}
+#button
+{
+	border: solid 3px #d81563;
+    padding: 9px;
+    margin-left: 559px;
+    border-radius: 50px;
+    font-size: 18px;
+    color: white;
+    background-color: #d81563;
+    text-decoration: underline;
+    text-decoration-color: #d81563;
+}
+.grid-contanier
+{
+	display: grid;
+	grid-template-columns:900px;
+	grid-template-rows: 100px 100px 100px 100px;
+	margin-top: 100px;
+    width: 1045px;
+    margin-left: 109px;
+    height: 700px;
+    background-image: url("../img/pic2.jpeg");
+	background-repeat: no-repeat;
+    background-size: 1200px 600px;
+}
+.grid-contanier > div
+{
+	height: 350px;
+	background-color: #d81563;
+	margin-top: 320px;
+	margin-left: 478px;
+	color: #afb1bc;
+}
+#button2
+{
+	border: solid 3px #4259f4;
+    padding: 9px;
+    margin-left: 26px;
+    border-radius: 50px;
+    font-size: 18px;
+    color: white;
+    background-color:#4259f4;
+    text-decoration: underline;
+    text-decoration-color: #4259f4;
+}
+.p1
+{
+	margin-left: 26px;
+}
+.p2
+{
+	margin-left: 26px;
+}
+.size
+{
+	font-size:22px;
+	margin-left: 26px;
+	color: white;
+}
+#box2
+{
+	border:3px solid red;
+	margin-top: 50px;
+	height:1275px;
+	width:1275px;
+	width: 1045px;
+    margin-left: 109px;
+}
+.b1
+{
+	font-size: 40px;
+	color:#d81563;
+}
+.b2
+{
+	color: #424949  ;
+}
+.grid
+{
+	display: grid;
+	grid-template-columns:250px 250px 250px 250px;
+	grid-template-rows: 300px 300px;
+	grid-column-gap: 15px;
+	grid-row-gap: 7px;
+	margin-top: 70px;
+}
+.grid > div
+{
+	background-color:#E5E7E9;
+}
+.img1
+{
+	width: 250px;
+    height: 218px;
+}
+.b3
+{
+	font-size: 20px;
+	margin-left: 18px;
+}
+.b4
+{
+	margin-left: 18px;
+	color:#717D7E  ;
+}
+.b5
+{
+	margin-top: 100px;
+}
