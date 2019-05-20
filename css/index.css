@@ -17,6 +17,8 @@ nav
 	width: 1255px;
   padding: 25px;
 	border-bottom:solid 1px white;
+	margin-top: -8px;
+	z-index: 1;
 	background-color: #2E86C1;
 }
 .h1
@@ -84,6 +86,29 @@ nav
 	margin-top: 300px;
 	margin-left: 478px;
 	width: 473px;
+}
+.dropdown 
+{
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content 
+{
+  display: none;
+  position: absolute;
+  width: 160px;
+  padding: 12px 16px;
+  z-index: 0;
+  background-color:#d81563;
+  color: white;
+  width:20px;
+  height: 120px;
+  margin-top:-207px; 
+}
+.dropdown:hover .dropdown-content
+{
+  display: block;
 }
 #button2
 {
